@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/common">
+        <file alias="iconfont_s1">res/fontawesome-webfont.ttf</file>
+    </qresource>
+    <qresource prefix="/common/image">
+        <file alias="setting">res/image/setting.png</file>
+    </qresource>
+</RCC>

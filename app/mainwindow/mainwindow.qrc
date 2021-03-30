@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/config">
+        <file alias="nav_tree">res/config_nav.xml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file alias="notice_2">res/image/my_qrcode.jpg</file>
+        <file alias="notice_3">res/image/virgo.jpg</file>
+        <file alias="notice_1">res/image/wechat_pay.jpg</file>
+    </qresource>
+</RCC>
